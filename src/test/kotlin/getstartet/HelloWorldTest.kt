@@ -1,4 +1,4 @@
-package org.example.getstartet
+package getstartet
 
 import kotlin.test.Test
 

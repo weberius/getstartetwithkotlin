@@ -1,4 +1,4 @@
-package org.example.getstartet
+package getstartet
 
 class SimpleFunctions {
 

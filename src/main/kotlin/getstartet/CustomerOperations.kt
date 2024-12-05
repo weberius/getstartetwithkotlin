@@ -4,7 +4,7 @@ class CustomerOperations {
 
     var customers: Int = 0
 
-    fun setCustomers(count: Int) {
+    fun updateCustomerCount(count: Int) {
         customers = count
     }
 
@@ -22,10 +22,6 @@ class CustomerOperations {
 
     fun divideCustomers(divisor: Int) {
         customers /= divisor
-    }
-
-    fun getCustomers(): Int {
-        return customers
     }
 
 }
